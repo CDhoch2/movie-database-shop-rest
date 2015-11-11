@@ -2,5 +2,5 @@
 
 cd ../movie-database-shop-rest
 
-# Docker Build Actors
+# Docker Build Shop Rest
 sudo /home/ec2-user/docker-latest build --tag="cdzwei/mvdb_shop" .
